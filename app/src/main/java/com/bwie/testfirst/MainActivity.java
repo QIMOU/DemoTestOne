@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         //开始
         //第一次测试
         //齐
-        //HAHAHAHa
+        //再见
+        //哈哈哈
+        //我的天
     }
 }
