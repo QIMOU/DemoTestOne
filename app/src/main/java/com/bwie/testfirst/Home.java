@@ -6,6 +6,6 @@ package com.bwie.testfirst;
 
 public class Home {
     //这是home类
-    //骑士龙  我草他姨
+    //骑士龙  是你爹我草他姨
     //五道口骑士龙
 }
