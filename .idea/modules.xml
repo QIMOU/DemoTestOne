@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DemoTestOne.iml" filepath="$PROJECT_DIR$/DemoTestOne.iml" />
+      <module fileurl="file://F:\BigTrainingOne\MyProducts\DemoTestOne.iml" filepath="F:\BigTrainingOne\MyProducts\DemoTestOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProducts.iml" filepath="$PROJECT_DIR$/MyProducts.iml" />
       <module fileurl="file://D:\Android\DemoTestOne\MyProducts.iml" filepath="D:\Android\DemoTestOne\MyProducts.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://D:\Android\DemoTestOne\app\app.iml" filepath="D:\Android\DemoTestOne\app\app.iml" />
